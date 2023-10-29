@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @michellekoegelenberg
 - 👀 I’m interested in Golang
-- 🌱 I’m currently learning Golang Blockchain development
 - 💞️ I’m looking to collaborate on anything Go-related
 - 📫 How to reach me michellekoegelenberg@gmail.com
 
