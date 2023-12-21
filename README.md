@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michellekoegelenberg
-- 👀 I’m interested in Golang
-- 💞️ I’m looking to collaborate on anything Go-related
-- 📫 How to reach me michellekoegelenberg@gmail.com
+- 👀 I’m interested in building backends and AI apps
+- 💞️ I’m looking to collaborate on anything related to the above
+- 📫 How to reach me: michellekoegelenberg@gmail.com
 
 <!---
 michellekoegelenberg/michellekoegelenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
